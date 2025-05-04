@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #695aa6;
+  color: #c50752;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #493f75;
+  color: #8a0032;
   text-decoration: none;
 }
 
@@ -221,7 +221,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #351d1d;
   text-align: left;
   caption-side: bottom;
 }
@@ -444,7 +444,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #54bfa4;
 }
 
 .list-unstyled {
@@ -478,7 +478,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #bf545c;
 }
 
 .blockquote-footer::before {
@@ -493,7 +493,7 @@ mark,
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 1px solid #dee2e6;
+  border: 1px solid #bf545c;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
